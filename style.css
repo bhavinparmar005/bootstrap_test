@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+    height: 1000px;
+}
+.wrapper{
+    max-width: 500px ;
+    height: 100vh;
+
+}
+.bordera{
+    border: 1px solid black;
+    
+}
+
+.user_img{
+    width: 100%;
+    height: 100%;
+}
+.bi-globe-americas{
+    color: red;
+}
+.bi-caret-down-fill{
+    color: rgba(128, 128, 128, 0.578);
+}
+.height{
+    height: 300;
+}
+.bi-hand-thumbs-up-fill{
+    color: blue;
+   
+}
+.iconsheight{
+    height: 30px;
+}
+.bi-hand-thumbs-up-fill{
+    color: black;
+    margin-right: 5px;
+}
+.bi-chat-left-fill{
+    color: black;
+    margin-right: 5px;
+}
+.bi-send-arrow-down-fill{
+    color: black;
+    margin-right: 5px;
+}
+.comment{
+    margin-top: 5px;
+    height: 63px;
+}
+
+.srarch{
+    height: 30px;
+}
+.input{
+    width: 100%;
+    height: 100%;
+    outline: none;
+    border: none;
+    background-color: transparent;
+}
+.bi-emoji-smile-fill{
+    color: grey;
+    font-size: 20px;
+    
+}
+.bi-camera-fill{
+    
+    color: grey;
+    font-size: 20px;
+    margin-left: 10px;
+
+}
